@@ -27,6 +27,7 @@ This document provides a step-by-step guide on creating a mockup for the **Autom
 - **Font**: Bold, 32px
 - **Alignment**: Centered
 
+- nacho
 ```jsx
 <h1 style={{ fontSize: '32px', textAlign: 'center', fontWeight: 'bold' }}>
   Automated Referencing Tool
